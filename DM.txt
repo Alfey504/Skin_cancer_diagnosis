@@ -1,0 +1,28 @@
+types of data
+
+	-Buisness data
+	-Scientific Data 
+	-Medical and Personel data
+	-Surveilance videos and photos
+	-satalite sensing
+	-Game data
+	-Digital Media
+	-CAD and software engineering data
+	-Virtual Worlds
+	-Text report and memos
+	-World Wide web 
+
+Knowledge discovery in Databases
+
+	-7 steps
+	-Data Cleaning
+	-Data Integration
+	-Data Selection
+	-Data Transformation
+	-Data Mining
+	-Pattern Evaluation
+	-Knowledge Representaion
+
+Data Mining System Architechture
+
+	-
